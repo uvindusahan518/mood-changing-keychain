@@ -29,7 +29,7 @@ Push button for changing expressions
 
 On/off switch
 
-Dot board
+Perf board board
 
 Connecting wires and solder
 
@@ -38,8 +38,6 @@ Key ring
 ⚙️ How It Works
 
 The ESP32-C3 controls the OLED display and changes the displayed expression when the button is pressed.
-
-The circuit was first tested on a breadboard. After confirming that it worked, the components were arranged on a small dot board and connected through soldered wires. An on/off switch and a key ring were added to complete the build.
 
 💻 Software
 
