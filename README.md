@@ -57,68 +57,8 @@ Upload the code to the ESP32-C3.
 
 Check the #include lines in the sketch to identify the exact libraries needed.
 
-🔌 Circuit Connections
-
-Add the wiring diagram and the pin connections used in your final build here.
-
-Component
-
-Connection
-
-OLED VCC
-
-Actual power pin used
-
-OLED GND
-
-GND
-
-OLED SDA
-
-Actual SDA GPIO
-
-OLED SCL
-
-Actual SCL GPIO
-
-Push button
-
-Configured GPIO and GND, if using INPUT_PULLUP
-
-On/off switch
-
-Actual power-switch wiring
-
-Replace the descriptions in the table with your actual connections before publishing.
-
-🛠️ Build Process
-
-Gather the electronic components.
-
-Test the circuit on a breadboard.
-
-Upload and test the code.
-
-Arrange the components on a small dot board.
-
-Solder the connections.
-
-Add the on/off switch.
-
-Attach the key ring.
-
-Test the completed keytag.
-
-🤖 AI Assistance
-
-Claude AI assisted me with the code during development. I used the code as part of building and testing the physical project.
+🔌 Circuit Connections are shown by a jpg file in the repository.
 
 🔋 Battery Safety
 
 Use a charging circuit compatible with the LiPo battery's specifications. Verify the charging current, battery connections, and power requirements before operating or charging the completed device.
-
-📸 Project Photos
-
-Photos, wiring diagrams, and a demonstration video can be added to this repository to document the build.
-
-Made as a personal DIY electronics project. One little idea, one little creation.
